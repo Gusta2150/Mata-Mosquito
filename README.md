@@ -1,7 +1,7 @@
 # Mata-Mosquito
 Este é um projeto simples de um **jogo de mata-mosquito** onde o usuário deve clicar nos mosquitos que aparecem na tela para ganhar pontos. O jogo é implementado em **HTML** para a estrutura, **CSS** para o estilo e **JavaScript** para a lógica do jogo.
 
-##Linguagem 
+## Linguagem 
 - JavaScript
 
 ## Funcionalidades

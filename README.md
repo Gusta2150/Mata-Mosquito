@@ -3,6 +3,7 @@ Este é um projeto simples de um **jogo de mata-mosquito** onde o usuário deve 
 
 ## Linguagem 
 - JavaScript
+- HTML
 
 ## Funcionalidades
 
